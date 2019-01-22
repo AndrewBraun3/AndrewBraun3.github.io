@@ -2,34 +2,9 @@
 
 Here is a collection of works from CSCI 260.
 
-### Markdown
+### What Software Engineering means to me.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+To me Software Engineering is the creation of code to efficiently acheive certain goals set at the begining of a project.  This does not mean however that changes cannot be made to the plan that is initialy created, sometimes a project evolves outside of the original parameters that were set, new features to be added and such.
 
-```markdown
-Syntax highlighted code block
+It is also worth mentioning that to me the most important part of software engineering is efficiency, sure it is great if there is an easy to navigate UI or features upon features, however if the intial goals of the project are impaired by feature creep or other issues then it becomes a problem.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AndrewBraun3/AndrewBraun3.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

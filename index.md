@@ -18,3 +18,5 @@ To me Software Engineering is the creation of code to efficiently acheive certai
 
 It is also worth mentioning that to me the most important part of software engineering is efficiency, sure it is great if there is an easy to navigate UI or features upon features, however if the intial goals of the project are impaired by feature creep or other issues then it becomes a problem.
 
+
+__/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/__

@@ -1,6 +1,13 @@
 ## Welcome to my homepage!
 
 Here is a collection of works from CSCI 260!
+### "The Pragmatic Programmer" Chapter One thoughts.
+
+ After reading the first chapter of "The Pragmatic Programmer" by Andrew Hunt, and David Thomas, I have to say I am plesantly surprised.  Out of all of the computer science reading I have read over the past year and a half of college this is easily the most aproachable thing I have read yet, at least based off of the first chapter.  Probably my favorite thing about the text is the formatting.  The text has been designed in such a way that it is easy to read and pick out highly important information, it is fantastic.  Another thing that I love about the text is how many, if not all of the examples in the text are presented as metaphors, it makes it a lot easier to digest the information as it is read.  The only thing that I would disagree with on the text is not the general contents, it was all fairly easy to understand and extreemly good tips or advice, it is that there is that some of the metaphors or short storys can seems a little drawn out.  Overall I am actualy looking forward to seeing more of what the text has, something I have almost never said about a piece of required reading before.
+
+
+__/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/__
+
 
 ### Why I am Taking software engineering.
 

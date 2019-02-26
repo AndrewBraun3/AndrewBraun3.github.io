@@ -1,6 +1,25 @@
 ## Welcome to my homepage!
 
 Here is a collection of works from CSCI 260!
+
+### "The Pragmatic Programmer" Chapter Four thoughts.
+
+Chapter 4 begins with a very simple statement and idea, 'you cannot right perfect software'.  This in and of itself makes me feel so much better about all of my coding so far...
+
+The first real thing that the chapter covers is the ideas of designing by and designing with contract.  Improperly goinging about the early stages of a project often times leads to my own undoing in a lot of coding projects that I have worked on, to the point where it was easier to just go back, write it all out on paper and then revisit it.  I believe that the advice in this section of the text has a lot to offer in my ventures going forward based upon this.
+
+The next section essentialy covers the idea of failure.  By failure I mean those caused by either error or decisions made in the design proccess.  Thankfully errors and crashes can be spun into a positive light, when they happen early on you avoid problems potentialy compounding, nothing is more annoying than a bug nested within line upon line of interconnected code, however maybe that says something about my planning skills.
+
+I really apriciated the section of the chapter on assertive programming, mainly because it can be summed up to a mindset that I find myself in more often than now, 'whatever can go wrong... will.'
+
+The final two sections of the chapter I feel compliment eachother rather well, the first being the usage of exceptions in code and then second on balence in code.  They work well together due to the fact that when used in moderation, neither really need to be worried about, however if exceptions are addded for no reason, code is not terminated after it finishes, or whatever else may go wrong occures it can become catastrophic.  This the need for a reasoned aproach and at least some foresight when creating code.
+
+Chapter 4 I feel is unique because almost everything that is in the chapter can be pulled to improve the pre-planning stage of production on a project.  I view the chapter as almost being a lesson on pessimisim, whatever can go wrong on a project will, so get ready and preplan to the point where it is not an issue.
+
+
+__/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/__
+
+
 ### "The Pragmatic Programmer" Chapter Two thoughts.
 
 The Second Chapter of the "Pragmatic Programmer" heavily covers that duplication in your code is one of the fastest ways to wreck a project.  This really hits home for me with some of the points that it brings up because some of the mentioned issues have been of concern for me in the past to the point where I spent hours pouring over some code that was simply not working because of a few values had not been updated or something similar.  One thing that really stuck with me is the idea of Impatient duplication as in the past I have done this as a way to create a 'duct tape' fix for a method or part of a program that I want to test, often times this would come back to bite me rather badly.  The chapter also speaks breifly on the principles of documentation, documentation has always been a weak point of mine and there are cocuntless times where I have gone back to work on a project and completley lose track of what exactly is going on in the code that I wrote mere days ago.  Going forward this is something I would really like to work on.

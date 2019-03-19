@@ -2,9 +2,23 @@
 
 Here is a collection of works from CSCI 260!
 
+### "The Pragmatic Programmer" Chapter Seven thoughts.
+
+Chapter seven begins in the most relateable statement I have ever read in reguards to CS, at least for me, "Do you ever get the feeling that your project is doomed, even before it starts?"  I have this feeling all to often in reguards to CS unfortunatly, however thankfully this chapter is based on the ideals of preplanning to avoid a majority of these issues (at least that is the hope).
+
+The first section of the chapter covers "digging for requirements", and how it is important to set goals and the mission before commiting to begining a project.  Often times in my experiences so far many requirements are procided in project guidlines and what not, however there are almost always 'hidden requirements that it is imperative to find else the project not achieve the desired end state.  It is also emphisized how important it is to document the project requirements, better organization seems to equal a more functional end product.
+
+The chapter also goes on to say that overspecification can lead to bloating in design documentation and not leaving enough room to work with interpritation wise which can lead to further issues or less effective code.  The same goes for not following design documentation well enough and not having defined limits which can lead to a project growing quite a bit out of its original scope and pushing back deadlines.
+
+The next major section of the chapter is on problem solving.  It is emphisized that there is always a solution to whatever issue is faced, the right aproach just needs to be taken.  This correct aproach is often found by looking through the constraints and limitations of the project at hand and findig what you as a programmer can work with.  There is also the idea that It is important to find what the problem at hand actualy is as perceived issues are not always the cause, sometimes it is a less likely canidate.
+
+The last few sections finish out by going through and explaining different faccets of development and how following, or not following procedure can be helpful in the overall proccess.  While I do not believe this portion of the chapter to be as helpful as the previous it still has a good amount to offer.
+
+Overall though I feel that the chapter can be very useful, it is my opinion that even if all of the tips and steps that are provided in the text are followed that it does not really do much in the end to ensure smooth developement.  I feel this way due to past experience where I have laid out as much preperatory work as possible and then things still go amazingly wrong (honestly it feels like this more often than not).
+
 ### "The Pragmatic Programmer" Chapter Four thoughts.
 
-Chapter 4 begins with a very simple statement and idea, 'you cannot right perfect software'.  This in and of itself makes me feel so much better about all of my coding so far...
+Chapter 4 begins with a very simple statement and idea, 'you cannot write perfect software'.  This in and of itself makes me feel so much better about all of my coding so far...
 
 The first real thing that the chapter covers is the ideas of designing by and designing with contract.  Improperly goinging about the early stages of a project often times leads to my own undoing in a lot of coding projects that I have worked on, to the point where it was easier to just go back, write it all out on paper and then revisit it.  I believe that the advice in this section of the text has a lot to offer in my ventures going forward based upon this.
 

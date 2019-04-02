@@ -2,6 +2,36 @@
 
 Here is a collection of works from CSCI 260!
 
+### Thoughts on 12factor.net
+
+I. Codebase
+A code base to me seems like the foundation of the project, fitting I guess that it is the first factor of a twelve factor application.  The website's description of codebases seems to sugest (at least to myself) that it is the agreed upon core of whatever project is at hand, the master branch or similar of the shared repository that is used by the group developing the app in quesiton.  The code base is pulled from by developers in order to advance further upon the project or to prepare a release or changes for publishing to the codebase itself.
+II. Dependencies
+Section two was all about Dependencies and how they are taken into account in a 12 factor appliction.  I believe that the most important part about this section is that there is an emphasis on eliminating anything 
+III. Config
+The entry on configuration seem to be focused on seperation, seperation is key in the deveolopement enviroment. This is the most importnat thing that I gained from this entry.  If there is confusion in the developement enviroment then it can cause issues in the overall process.  It is important to stay flexible in development but maintain boudneries, if said bounderies are not maintained than it can cause issues in the dev enviroment.
+IV. Backing services
+Backing services are resoucres that are used by an app, it doesn not matter if they are databases or third party resources, it is anything that is used.  I feel that this is extreemly important due to the fact that all apps and projects require the data that is provided by the backround information provided by theses services.
+V. Build, Release, Run
+The main thing that I got the out of this section was that there needs to be a seperation between these three stages.  It is important make the distinction on where exactly deveoplement is at.  A product cannot be rushed because if it is it can cause major issues when the product finally reaches the consumer.
+VI. Proccesses
+I'm going to be honest I did not entirely understand this section of the website.  The most I got out of it is that the proccesses can be seperated in both processes on the individual machine and those provided through the service.  Granted this may be incorrect.
+VII. Port Binding
+This is extreemly important to our project due to the need for accesability to the webservice that we will be creating, having the ports set correctly for this is of paramount importance as otherwise the serivce will not be able to interface with the user's machine correctly.
+VIII. Concurency
+Concurency seems to cover divisions of work, not in the development team but in the app itself.  It is imporatnt to seperate everyting to a point where it can run well together and effectivly.  This is important to the project for many different purposes, mainly for making sure that the user gets the fastest experience as possible.
+XI. Disposeability
+This portion is all about efficiency and making sure everything runs as fast and effectivly as possible, thus minimalizing hardware requirements and speeding up usesr experiences.
+X. Dev/Prod Parity
+Keeping the differnet sections of deveoplemt as close as possible streamlines the proccess and makes sure that the overall vision remains the same and maintains the same functions.
+XI. Logs
+Logs are important because it allows for the development team to track progress and function of the app and to make sure that it is functioning as designed.  If this is not the case, the cause, and henceforth the solution can most likly be found in the logs.
+XII. Admin Proccesses
+Admin proccesses should be seperated from all others due to the fact that it will allow for the avoidence of synchonization issues.  THis is important for the project to minimize issues.
+
+
+__/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/__
+
 ### "The Pragmatic Programmer" Chapter Seven thoughts.
 
 Chapter seven begins in the most relateable statement I have ever read in reguards to CS, at least for me, "Do you ever get the feeling that your project is doomed, even before it starts?"  I have this feeling all to often in reguards to CS unfortunatly, however thankfully this chapter is based on the ideals of preplanning to avoid a majority of these issues (at least that is the hope).
